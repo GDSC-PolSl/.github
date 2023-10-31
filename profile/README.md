@@ -1,4 +1,4 @@
-# Google Developers Student Clubs - Our University Chapter
+# Google Developers Student Clubs - Silesian University of Technology
 We are a student organization part of a global initiative by Google called Google Developers Student Clubs (GDSC). Our GDSC is a university-based community group for students interested in Google developer technologies. We welcome students from all undergraduate or graduate programs who have an interest in growing as a developer.
 
 ## What We Do
